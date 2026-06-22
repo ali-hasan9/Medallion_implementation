@@ -77,11 +77,11 @@
     "city": "New Carl",
     "country": "Cameroon",
     "signup_date": "2021-07-01",
-    "loyalty_tier": "Platinum",
-    "total_spend": 11745.49,
+    "loyalty_tier": "gold",
+    "total_spend": 99999.99,
     "is_active": true,
     "created_at": "2024-11-03 21:54:00",
-    "updated_at": "2024-11-03 21:54:00"
+    "updated_at": "2026-06-22 20:04:50"
   },
   {
     "customer_id": "CUST0007",
@@ -768,5 +768,19 @@
     "is_active": true,
     "created_at": "2026-06-22 19:51:32",
     "updated_at": "2026-06-22 19:51:32"
+  },
+  {
+    "customer_id": "CUST0056",
+    "full_name": "umair",
+    "email": "ali.hasan@test.com",
+    "phone": "0300-1234567",
+    "city": "Lahore",
+    "country": "Pakistan",
+    "signup_date": "2026-06-21",
+    "loyalty_tier": "Gold",
+    "total_spend": 5000.0,
+    "is_active": true,
+    "created_at": "2026-06-22 20:04:50",
+    "updated_at": "2026-06-22 20:04:50"
   }
 ]
