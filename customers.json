@@ -106,10 +106,10 @@
     "country": "Argentina",
     "signup_date": "2021-12-08",
     "loyalty_tier": "silver",
-    "total_spend": 88888.99,
+    "total_spend": 77777.99,
     "is_active": false,
     "created_at": "2024-03-19 17:06:00",
-    "updated_at": "2026-06-23 13:29:25"
+    "updated_at": "2026-06-23 13:29:37"
   },
   {
     "customer_id": "CUST0009",
@@ -740,5 +740,19 @@
     "is_active": true,
     "created_at": "2026-06-23 13:29:25",
     "updated_at": "2026-06-23 13:29:25"
+  },
+  {
+    "customer_id": "CUST0057",
+    "full_name": "Rida",
+    "email": "Rida@test.com",
+    "phone": "0300-1234567",
+    "city": "Lahore",
+    "country": "Pakistan",
+    "signup_date": "2026-06-21",
+    "loyalty_tier": "Gold",
+    "total_spend": 5000.0,
+    "is_active": true,
+    "created_at": "2026-06-23 13:29:37",
+    "updated_at": "2026-06-23 13:29:37"
   }
 ]
