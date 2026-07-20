@@ -14,6 +14,20 @@
     "updated_at": "2024-02-03 17:59:00"
   },
   {
+    "customer_id": "CUST0000054",
+    "full_name": "ali hasan",
+    "email": "ali@@example.net",
+    "phone": "447.335.7143",
+    "city": "Carrillostad",
+    "country": "Congo",
+    "signup_date": "2022-01-04",
+    "loyalty_tier": "Platinum",
+    "total_spend": 775.39,
+    "is_active": true,
+    "created_at": "2024-02-03 17:59:00",
+    "updated_at": "2024-02-03 17:59:00"
+  },
+  {
     "customer_id": "CUST000003",
     "full_name": "Gabriel Walsh",
     "email": "ehenderson@example.com",
