@@ -679,11 +679,11 @@
     "city": "South Garrettside",
     "country": "Tokelau",
     "signup_date": "2021-03-15",
-    "loyalty_tier": "Gold",
-    "total_spend": 12812.37,
+    "loyalty_tier": "silver",
+    "total_spend": 6666.99,
     "is_active": true,
     "created_at": "2024-07-06 11:52:00",
-    "updated_at": "2024-07-06 11:52:00"
+    "updated_at": "2026-07-20 13:18:06"
   },
   {
     "customer_id": "CUST000051",
@@ -726,5 +726,19 @@
     "is_active": true,
     "created_at": "2026-07-20 13:16:43",
     "updated_at": "2026-07-20 13:16:43"
+  },
+  {
+    "customer_id": "CUST000057",
+    "full_name": "umair",
+    "email": "umair@test.com",
+    "phone": "0300-1234567",
+    "city": "Lahore",
+    "country": "Pakistan",
+    "signup_date": "2026-06-21",
+    "loyalty_tier": "Gold",
+    "total_spend": 5000.0,
+    "is_active": true,
+    "created_at": "2026-07-20 13:18:06",
+    "updated_at": "2026-07-20 13:18:06"
   }
 ]
